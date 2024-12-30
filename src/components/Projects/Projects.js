@@ -54,7 +54,7 @@ function Projects() {
               description="The GNC Flight Computer is a PCB that manages telemetry, sensor fusion, data logging,
                controls, attitude, and state estimation for a thrust vector control rocket. It includes sensors in 
                SPI, UART, Ethernet, SPI, QuadSPI, and I2C. The software architecture includes a real-time operating system with DMA, improving memory usage. On the control side, it runs a PID loop for actuation, an EKF for state estimation, and an LQR for controls. "
-              ghLink="https://github.gatech.edu/gnc/jet-vanes-flight-software"
+              ghLink="https://github.com/KChugh2903/jet-vanes-flight-software"
             />
           </Col>
 
@@ -66,7 +66,7 @@ function Projects() {
               description="This is a full NES game programmed with Verilog on the Basys3 FPGA Board. 
               It includes an NES Controller peripheral for game controls, Python scripts for automated ROM generation, and 16 verilog scripts including 2D kinematics, sprite displays and animations and score tracking. 
 "
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/KChugh2903/YoshiGhosts"
             />
           </Col>
 
@@ -77,7 +77,7 @@ function Projects() {
               title="DSP Guitar FPGA Board"
               description="This board is an individual project which simulates DSP guitar effects with an FPGA. This performs digital signal processing on DSP
 cores and analog components to simulate distortion, overdrive, gain, delay, chorus, tremolo, and equalizers. It performed 99% similarly to a standard amplifier and pedals with half the cost"
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/KChugh2903/dsp-guitar-board-fpga"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
