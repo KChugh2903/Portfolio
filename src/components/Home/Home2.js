@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar2.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,43 +19,33 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm Kanav Chugh, a Georgia Tech student studying computer engineering. My graduation for my Bachelor's degree is in May 2025; however, I am continuing my education with a Master's in Electrical and Computer Engineering, graduation set for May 2026. 
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, C, Java, Python, and Verilog. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My fields of interest are &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">robotics, semiconductors, </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  embedded systems.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">FPGAs, ARM Processors, embedded Linux, STM32 controllers, Raspberry PI, </b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  SoCs.
                 </b>
               </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
             </p>
-          </Col>
-          <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
-            </Tilt>
           </Col>
         </Row>
         <Row>
@@ -67,7 +57,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/KChugh2903"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,17 +67,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/kanavchugh/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/kanav.chugh"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
