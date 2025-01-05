@@ -9,6 +9,7 @@ function Type() {
           "Computer Engineer",
           "Embedded Software Developer",
           "Robotics Engineer",
+          "Software Engineer",
           "ASIC Designer",
           "Controls and Simulations Engineer",
           "Hardware Engineer"

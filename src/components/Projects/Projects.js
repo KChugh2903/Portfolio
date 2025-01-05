@@ -26,11 +26,11 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="SoC Hardware Accelerator"
-              description="A custom hardware accelerator for image processing and vision-based deep learning LIDAR on a Zynq Z7-2000 SoC.
+              description="A custom hardware accelerator for image processing and vision-based deep learning LIDAR on a Zynq Z7-7000 SoC.
                This includes a custom-written embedded Linux kernel based on Yocto 
                written in C and separate data-paths written in Verilog for image processing. With the custom operating system, 
                I received 300x speedupp over an ARM Cortex A9 and power consumption under 1W."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/KChugh2903/soc-hw-accelerator"
             />
           </Col>
 
@@ -42,7 +42,7 @@ function Projects() {
               description="Uinsg CUDA, this is a supersonic rocket dynamics trajectory simulator with parallel processing.
                It runs Monte Carlo simulations with OpenMPI, CUDA, and Pytorch. Data is visualized using OpenGL, including OpenMPI 
                for environmental processing. It includes support for thrust-vector control rockets. "
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/KChugh2903/gpu-simulator"
             />
           </Col>
 

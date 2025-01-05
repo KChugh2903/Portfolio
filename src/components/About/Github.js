@@ -38,7 +38,7 @@ const Experience = () => {
     {
       company: "Stebner Labs",
       role: "Undergraduate Research Assistant",
-      period: "August 2022 - May 2024",
+      period: "August 2021 - May 2024",
       italic: true
     },
     {
